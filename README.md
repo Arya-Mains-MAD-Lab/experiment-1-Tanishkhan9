@@ -1,3 +1,12 @@
+Name: Tanish Khan
+
+Roll no. : 048
+
+Branch: CS AI
+
+Section: Aplha
+
+
 # app1
 
 A new Flutter project.
